@@ -64,6 +64,8 @@ Here is the example
 |cloud|`:cloud`|☁️|
 |smile|`:smile`|😄|
 ```
+## To use local image
+![dilophosaurus](/assets/dilophosaurus.png)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>1</sup>
